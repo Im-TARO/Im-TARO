@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 ![Oracle](https://img.shields.io/badge/-Oracle-red?style=flat-square&logo=oracle)
 ![Jaspersoft](https://img.shields.io/badge/-Jaspersoft-green?style=flat-square)
 ![Tableau](https://img.shields.io/badge/-Tableau-orange?style=flat-square&logo=tableau)
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat-square)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 <!-- ![PowerBI](https://img.shields.io/badge/-PowerBI-yellow?style=flat-square&logo=powerbi) -->
