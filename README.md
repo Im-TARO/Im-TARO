@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat-square)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) 
 <!-- ![PowerBI](https://img.shields.io/badge/-PowerBI-yellow?style=flat-square&logo=powerbi) -->
 
 ## 📫 Connect With Me
