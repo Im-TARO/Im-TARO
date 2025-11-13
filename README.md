@@ -1,4 +1,5 @@
-## Hi there 👋
+# Hi there 👋
+
 <!--
 **Im-TARO/Im-TARO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,14 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-💻 **Report Developer | SQL Developer | Data Visualization**
+## 💻 **Report Developer | SQL Developer | Data Visualization**
 
  I love turning data into clear, actionable insights. I've built reports, dashboards and optimized queries across varied industries.
 
 ## 🛠️ Tech Stack
 
-![Jaspersoft](https://img.shields.io/badge/-Jaspersoft-blue?style=for-the-badge)
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,oracle,bigquery,tableau,python,r,linux,github,git,excel,confluence&theme=dark)
+[![Jaspersoft](https://img.shields.io/badge/-Jaspersoft-blue?style=for-the-badge)](#️-tech-stack)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,oracle,bigquery,tableau,python,r,linux,github,git,excel,confluence&theme=dark)](#️-tech-stack)
 
 <!-- ![PowerBI](https://img.shields.io/badge/-PowerBI-yellow?style=flat-square&logo=powerbi)
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge)
