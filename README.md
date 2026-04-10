@@ -14,14 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 💻 **Report Developer | SQL Developer | Data Visualization**
+## :computer: Report Developer | SQL Developer | Data Visualization | Business Intelligence :bar_chart:
 
  I love turning data into clear, actionable insights. I've built reports, dashboards and optimized queries across varied industries.
 
-## 🛠️ Tech Stack
+## :wrench: Tech Stack :hammer:
+
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,oracle,bigquery,vscode,tableau,python,r,linux,github,git,excel,confluence&theme=dark&perline=6)](#️-tech-stack)  
 
 [![Jaspersoft](https://img.shields.io/badge/-Jaspersoft-blue?style=for-the-badge)](#️-tech-stack)
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,oracle,bigquery,tableau,python,r,linux,github,git,excel,confluence&theme=dark)](#️-tech-stack)
 
 <!-- ![PowerBI](https://img.shields.io/badge/-PowerBI-yellow?style=flat-square&logo=powerbi)
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge)
@@ -38,9 +39,15 @@ Here are some ideas to get you started:
 ![SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=postgresql&logoColor=white)
  -->
 
+## :books: Portfolio
+
+| Repo | |
+| -- | -- |
+| [Flights](https://github.com/Im-TARO/Flights) | clean and prepare a raw dataset with SQL |
+| [Jaspersoft](https://github.com/Im-TARO/Jaspersoft) | reports using Jaspersoft |
+| [Tmart](https://github.com/Im-TARO/Tmart) | data project, simulates the backend database of a small store |
+
 ## 📫 Connect With Me
-[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark&perline=15)](https://www.linkedin.com/in/robinsontd/)
-[![My Skills](https://skillicons.dev/icons?i=github&theme=dark&perline=15)](https://github.com/Im-TARO)
-<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/robinsontd/) 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/Im-TARO)  
-<!-- [![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com) -->
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark&perline=15)](https://www.linkedin.com/in/robinsontd/)
+[![GitHub](https://skillicons.dev/icons?i=github&theme=dark&perline=15)](https://github.com/Im-TARO)
+[![Tableau](https://go-skill-icons.vercel.app/api/icons?i=tableau&theme=dark)](https://public.tableau.com/app/profile/t.robinson6379/vizzes)
