@@ -14,15 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## :computer: Report Developer | SQL Developer | Data Visualization | Business Intelligence :bar_chart:
+## :computer: SQL Developer | Report Analyst | Data Visualization | Business Intelligence :bar_chart:
 
  I love turning data into clear, actionable insights. I've built reports, dashboards and optimized queries across varied industries.
 
 ## :wrench: Tech Stack :hammer:
 
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,oracle,bigquery,vscode,tableau,python,r,linux,github,git,excel,confluence&theme=dark&perline=6)](#️-tech-stack)  
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,oracle,bigquery,vscode,tableau,python,r,js,json,html,css,bootstrap,linux,github,git,excel,confluence&theme=dark&perline=10&titles=true)](#️-tech-stack)  
 
 [![Jaspersoft](https://img.shields.io/badge/-Jaspersoft-blue?style=for-the-badge)](#️-tech-stack)
+[![PowerBI](https://img.shields.io/badge/-PowerBI-yellow?style=for-the-badge&logo=powerbi)](#️-tech-stack)
 
 <!-- ![PowerBI](https://img.shields.io/badge/-PowerBI-yellow?style=flat-square&logo=powerbi)
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge)
