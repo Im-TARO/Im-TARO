@@ -14,24 +14,70 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## SQL Developer | Report Analyst | Data Visualization | Business Intelligence
+### SQL Developer | Report Analyst | Data Visualization | Business Intelligence
 
  I enjoy taking messy data and turning it into clear, useful insights, I've worked on reports, dashboards and query optimization across a mix of industries.
 
 ## Connect With Me
+
+<div align="center">
+
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark&perline=15)](https://www.linkedin.com/in/robinsontd/)
 [![GitHub](https://skillicons.dev/icons?i=github&theme=dark&perline=15)](https://github.com/Im-TARO)
 [![Tableau](https://go-skill-icons.vercel.app/api/icons?i=tableau&theme=dark)](https://public.tableau.com/app/profile/t.robinson6379/vizzes)
 
-## Projects
+</div>
 
-| | Short Description |
-| -- | -- |
-| [![Tmart](images/ChatGPT_Tmart_logo_xsm.png)](https://github.com/Im-TARO/Tmart) | A simulated retail (grocery) data project |
-| [![Flights](images/plane.jpg)](https://github.com/Im-TARO/Flights) <br> <a href="https://www.magnific.com/free-vector/flat-design-airplane-silhouette-illustration_28453238.htm#fromView=search&page=2&position=29&uuid=05c3d180-a049-4c50-8d65-253fcadb981e&query=plane+clip+art">Image by freepik</a> | Clean and prepare a Kaggle dataset with SQL |
-| [![Jaspersoft](https://img.shields.io/badge/-Jaspersoft-blue?style=for-the-badge)](https://github.com/Im-TARO/Jaspersoft) | Create reports and charts using Jaspersoft |
+# Projects
 
-## Tech Stack 
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/Im-TARO/Tmart">
+        <img src="images/ChatGPT_Tmart_logo_xsm.png"
+             alt="Tmart Project"
+             style="width:35%; height:100px; object-fit:contain;"/>
+      </a>
+      <br/>
+      <b>Data Project</b><br/>
+      <sub>A simulated retail (grocery) data project</sub><br/>
+      🔗 <a href="https://github.com/Im-TARO/Tmart">Repo</a>
+      <br/>
+      <sub>MySQL, Python, ChatGPT</sub><br/>
+      <sub> </sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Im-TARO/Flights">
+        <img src="images/plane.jpg"
+             alt="Flight Dataset"
+             style="width:35%; height:1-0px; object-fit:contain;"/>
+      </a>
+      <br/>
+      <b>Data Cleaning</b><br/>
+      <sub>Clean and prepare a Kaggle dataset with SQL</sub><br/>
+      🔗 <a href="https://github.com/Im-TARO/Tmart">Repo</a>
+      <br/>
+      <sub>MySQL, Tableau, Excel</sub><br/>
+      <a href="https://www.magnific.com/free-vector/flat-design-airplane-silhouette-illustration_28453238.htm#fromView=search&page=2&position=29&uuid=05c3d180-a049-4c50-8d65-253fcadb981e&query=plane+clip+art">Image by freepik</a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Im-TARO/Jaspersoft">
+        <img src="images/jaspersoft_logo.png"
+             alt="Tmart Project"
+             style="width:55%; height:100px; object-fit:contain;"/>
+      </a>
+      <br/>
+      <b>Jaspersoft</b><br/>
+      <sub>Reports created using Jaspersoft</sub><br/>
+      🔗 <a href="https://github.com/Im-TARO/Jaspersoft">Repo</a>
+      <br/>
+      <sub>Jaspersoft Studio, MySQL</sub><br/>
+      <sub> </sub>
+    </td>
+  </tr>
+</table>
+
+## Tech Stack
 
 **Data & Query Languages**  
 ![SQL](https://img.shields.io/badge/SQL-708090?style=for-the-badge&logoColor=white&logoSize=auto)
