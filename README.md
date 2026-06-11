@@ -64,7 +64,7 @@ Here are some ideas to get you started:
       <a href="https://github.com/Im-TARO/Jaspersoft">
         <img src="images/jaspersoft_logo.png"
              alt="Tmart Project"
-             style="width:55%; height:100px; object-fit:contain;"/>
+             style="width:55%; height:35px; object-fit:contain;"/>
       </a>
       <br/>
       <b>Jaspersoft</b><br/>
