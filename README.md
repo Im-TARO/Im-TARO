@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 
 # Projects
 
+<div align="center">
 <table>
   <tr>
     <td align="center" width="33%">
@@ -55,7 +56,7 @@ Here are some ideas to get you started:
       <br/>
       <b>Data Cleaning</b><br/>
       <sub>Clean and prepare a Kaggle dataset with SQL</sub><br/>
-      🔗 <a href="https://github.com/Im-TARO/Tmart">Repo</a>
+      🔗 <a href="https://github.com/Im-TARO/Flights">Repo</a>
       <br/>
       <sub>MySQL, Tableau, Excel</sub><br/>
       <a href="https://www.magnific.com/free-vector/flat-design-airplane-silhouette-illustration_28453238.htm#fromView=search&page=2&position=29&uuid=05c3d180-a049-4c50-8d65-253fcadb981e&query=plane+clip+art">Image by freepik</a>
@@ -76,6 +77,7 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
+</div>
 
 ## Tech Stack
 
