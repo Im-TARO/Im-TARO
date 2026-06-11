@@ -52,14 +52,16 @@ Here are some ideas to get you started:
         <img src="images/plane.jpg"
              alt="Flight Dataset"
              style="width:35%; height:1-0px; object-fit:contain;"/>
-      </a>
+      </a><br/>
+      <sub>
+      <a href="https://www.magnific.com/free-vector/flat-design-airplane-silhouette-illustration_28453238.htm#fromView=search&page=2&position=29&uuid=05c3d180-a049-4c50-8d65-253fcadb981e&query=plane+clip+art">Image by freepik</a>      
+      </sub>
       <br/>
       <b>Data Cleaning</b><br/>
       <sub>Clean and prepare a Kaggle dataset with SQL</sub><br/>
       🔗 <a href="https://github.com/Im-TARO/Flights">Repo</a>
       <br/>
-      <sub>MySQL, Tableau, Excel</sub><br/>
-      <a href="https://www.magnific.com/free-vector/flat-design-airplane-silhouette-illustration_28453238.htm#fromView=search&page=2&position=29&uuid=05c3d180-a049-4c50-8d65-253fcadb981e&query=plane+clip+art">Image by freepik</a>
+      <sub>MySQL, Tableau, Excel</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/Im-TARO/Jaspersoft">
